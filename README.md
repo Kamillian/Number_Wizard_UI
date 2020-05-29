@@ -1,2 +1,3 @@
-# Number_Wizard_UI
- number wizard with UI (unity)
+# Number Wizard UI
+number wizard on C# with unity UI
+comming soon..
